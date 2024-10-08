@@ -1,6 +1,6 @@
 {
     "name": "luzern-encryptor",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A LuzernEncryptor for encrypting and decrypting text into numbers using a custom character set and offset key.",
     "main": "src/main.js",
     "scripts": {
