@@ -1,0 +1,25 @@
+{
+    "name": "luzern-encryptor",
+    "version": "1.0.0",
+    "description": "A LuzernEncryptor for encrypting and decrypting text into numbers using a custom character set and offset key.",
+    "main": "src/main.js",
+    "scripts": {
+        "test": "node tests/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Dxrry/luzern-encryptor.git"
+    },
+    "type": "module",
+    "keywords": [
+        "luzern-encryptor",
+        "encryptor",
+        "decryptor"
+    ],
+    "author": "Dxrry <dxrryr@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Dxrry/luzern-encryptor/issues"
+    },
+    "homepage": "https://github.com/Dxrry/luzern-encryptor#readme"
+}
